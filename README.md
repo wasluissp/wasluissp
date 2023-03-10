@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Wasluissp GitHub stats](https://github-readme-stats.vercel.app/api?username=wasluissp&show_icons=true&theme=transparent&hide=contribs,prs&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wasluissp&theme=transparent&layout=compact&hide_border=true)
 
